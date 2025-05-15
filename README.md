@@ -1,6 +1,10 @@
-[![Watch the video](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)
+<div style="display: flex; gap: 10px; justify-content ">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMzU1MjMsIm5iZiI6MTc0NzMzNTIyMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA4NjMtYzU1MmJlMzktMjVhYS00ZjVhLTg0MjEtNTRhYTExZjcxMzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDE4NTM0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3NDc1ZmMzOTk5NTk5NWM4MjA0NGRiYzlkNTVhNTVjMWVjOWRkYzljYzU3YjlhZDNlYTdkZjFiMjQzMTczZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.B9hmPzpz3NqC77alJqxMeVOIkhDARg2urSlZkf_nVOk" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300"/>
+</div>
 <!--<kbd>2021-03-25</kbd>-->
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Kumar</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Kumar</h1>
 <h3 align="center">An excited IT student at Meerut Institute of Engineering and Technology, Meerut, always exploring new tech</h3>
 
 - 🌱 I’m currently learning more about **Web-Devlopment and Machine Learning**
