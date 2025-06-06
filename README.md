@@ -1,8 +1,5 @@
-<div style="display: flex; gap: 2px; justify-content ">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="250"/>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="250"/>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="250"/>
-</div>
+![Banner](https://github.com/i-ankit01/i-ankit01/blob/main/banner.png?raw=true)
+
 <!--<kbd>2021-03-25</kbd>-->
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Kumar</h1>
 <h3 align="center">An excited IT student at Meerut Institute of Engineering and Technology, Meerut, always exploring new tech</h3>
@@ -71,4 +68,15 @@
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
- 
+ <br/>
+  <h2 align="center">⚡ Profile Statistics ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=i-ankit01&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=i-ankit01&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ankit01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+  <br/>
+
+<br/><br/>
