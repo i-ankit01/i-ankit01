@@ -1,26 +1,25 @@
 ![Banner](https://github.com/i-ankit01/i-ankit01/blob/main/banner.png?raw=true)
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Kumar</h1>
-<h3 align="center">An excited IT student at Meerut Institute of Engineering and Technology, Meerut, always exploring new tech</h3>
 
-- 🌱 I’m currently learning more about **Web-Devlopment and Machine Learning**
-- 📚 *I love to explore more new things in Tech*
-- 📫 How to reach me :
-  * [![Gmail Badge](https://img.shields.io/badge/-its.ankit.acc@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:its.ankit.acc@gmail.com)](mailto:its.ankit.acc@gmail.com)
-  * [![Linkedin Badge](https://img.shields.io/badge/-Ankit-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:its.ankit.acc@gmail.com)](https://www.linkedin.com/in/i-ankit01/)
+- 🎓**Second Year IT Engineering student at Meerut Institute of Engineering and Technology.**
+- 🔭 I’m currently working on **Full Stack Development, NextJs and Devops**
+- 🌱 I’m currently learning **Devops - Machine Learning - Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Open Source, MERN, NextJS Projects**
+- 📫 Reach me at **its.ankit.acc@gmail.com**
+- ⚡ Fun fact: I can spend my entire day while coding.
 
-<hr></hr>
-
-<h3 align="left">Connect with me:</h3>
+<br>
+<h2 align="center">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/ankit_codes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/i-ankit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ankitxkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ankit" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ankit_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Ankit" height="30" width="40" /></a>
 </p>
-<hr></hr>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -66,28 +65,28 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
-
+<br>
 <h2 align="center">🚀 GitHub Activity & Stats</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-i--ankit01-blue?style=flat-square&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=i-ankit01&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=i-ankit01&count_private=true&theme=react&border_radius=10" alt="🔥 GitHub Streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=i-ankit01&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="📊 GitHub Stats" />
-</p>
-
-<br/>
-
-<h3 align="center">🧠 Most Used Languages</h3>
-
-<p align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ankit01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="🗂️ Top Languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-ankit01&theme=midnight_purple" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-ankit01&theme=midnight_purple" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-ankit01&theme=midnight_purple" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-ankit01&theme=midnight_purple" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=i-ankit01&theme=midnight_purple&utcOffset=8" />
+  </a>
+</div>
+<br>
+</div>
 
 <br/><br/>
 
