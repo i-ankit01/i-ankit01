@@ -68,6 +68,11 @@
 <br>
 <h2 align="center">🚀 GitHub Activity & Stats</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-i--ankit01-blue?style=flat-square&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=i-ankit01&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-ankit01&theme=midnight_purple" />
