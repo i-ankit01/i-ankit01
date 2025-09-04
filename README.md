@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Kumar</h1>
 
-- 🎓**Second Year IT Engineering student at Meerut Institute of Engineering and Technology.**
+- 🎓**Third Year IT Engineering student at Meerut Institute of Engineering and Technology.**
 - 🔭 I’m currently working on **Full Stack Development, NextJs and Devops**
 - 🌱 I’m currently learning **Devops - Machine Learning - Artificial Intelligence**
 - 👯 I’m looking to collaborate on **Open Source, MERN, NextJS Projects**
